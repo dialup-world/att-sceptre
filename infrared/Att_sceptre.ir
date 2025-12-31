@@ -1,0 +1,758 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Mode
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1516 98640 2058
+# 
+name: Phone
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1748 98642 2056
+# 
+name: Data
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1594 98753 1887
+# 
+name: Auto
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1517 98645 2056
+# 
+name: Cont
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1815 98577 2124
+# 
+name: Select
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1815 98578 2125
+# 
+name: Clear
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1824 98569 2134
+# 
+name: Next
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1521 98869 1834
+# 
+name: F1_help
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1460 98945 1767
+# 
+name: F2_gold
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1527 98881 1802
+# 
+name: F3_bye
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1517 98890 1827
+# 
+name: F4_back
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1526 98891 1827
+# 
+name: F5_main
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1524 98884 1844
+# 
+name: F6_index
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1405 98957 1762
+# 
+name: F7_browse
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1517 98670 2049
+# 
+name: F8_more
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1669 98740 1971 98488 1971
+# 
+name: Frgnd
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1451 98964 1754
+# 
+name: Bkgnd
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1593 98815 1902
+# 
+name: 1
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1443 98747 1970 98615 1854
+# 
+name: 2
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1660 98875 1854
+# 
+name: 3
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1680 98739 1981
+# 
+name: 4
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 995 99117 1608
+# 
+name: 5
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1378 98801 1980
+# 
+name: 6
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1529 98893 1828
+# 
+name: 7
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 155 600 172 393 80 99098 1671
+# 
+name: 8
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1500 98991 1743
+# 
+name: 9
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1442 98965 1758
+# 
+name: 0
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1315 99061 1678
+# 
+name: Send
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1278 98906 1816 98646 1817
+# 
+name:  q
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1592 98821 1903
+# 
+name:  w
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1426 99265 1464
+# 
+name:  e
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1747 98671 2057
+# 
+name:  r
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1472 98684 2049 98419 2057
+# 
+name:  t
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1669 98750 1971
+# 
+name:  y
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1521 99021 1709
+# 
+name:  u
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 162 99841 1384
+# 
+name:  i
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1426 98979 1753
+# 
+name:  o
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1589 98832 1883
+# 
+name:  p
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1737 98686 2047
+# 
+name:  a
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1356 98836 1903
+# 
+name:  s
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1749 98675 2057
+# 
+name:  d
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 433 448 846 98694 2048
+# 
+name:  f
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1375 98839 1892
+# 
+name:  g
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1447 98762 1980
+# 
+name:  h
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1289 98916 1826
+# 
+name:  j
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1593 99061 1673
+# 
+name:  k
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1434 98976 1757
+# 
+name:  l
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1309 99077 1675
+# 
+name:  z
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1446 98762 1971
+# 
+name:  x
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1648 99267 1474
+# 
+name:  c
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1671 99233 667 378 421
+# 
+name:  v
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1331 99343 1392
+# 
+name:  b
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1672 98752 1150 290 521
+# 
+name:  n
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 287 1013 112 98867 1149 571 160
+# 
+name:  m
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1367 99054 1679
+# 
+name: Q
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1325 99100 1335 99152 1327
+# 
+name: W
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1601 98830 1605 98871 1607
+# 
+name: E
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1680 98888 1546
+# 
+name: R
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1498 98943 1494 99001 1482
+# 
+name: T
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1649 99025 1420 98878 1602
+# 
+name: Y
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1679 98754 1683 98798 1681
+# 
+name: U
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1746 98688 1748
+# 
+name: I
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1825 98759 1657
+# 
+name: O
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1313 99117 1325
+# 
+name: P
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1481 98953 1483 98995 1484
+# 
+name: A
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1340 98912 1527 98738 1750
+# 
+name: S
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1494 98755 1681
+# 
+name: D
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 123 309 1056 98764 1680 98583 1905
+# 
+name: F
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1336 98908 1529 98956 1523
+# 
+name: G
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1825 98611 1825 98653 1826
+# 
+name: H
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1264 98994 1444 99029 1451
+# 
+name: J
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1747 98688 1749
+# 
+name: K
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1472 98620 1826
+# 
+name: L
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1739 98698 1740
+# 
+name: Z
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1600 98620 1815 98663 1825
+# 
+name: X
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1827 99006 1417 99064 1417
+# 
+name: C
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1601 98963 1473 99057 1421
+# 
+name: V
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1523 99090 1346 99139 1340
+# 
+name: B
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1824 98611 1825 98655 1825
+# 
+name: N
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1526 98697 1748
+# 
+name: M
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1400 98697 1740
+# 
+name: Equal
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1516 98905 1825
+# 
+name: Plus
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1439 98760 1672
+# 
+name: Semicolon
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1658 98764 1971
+# 
+name: Colon
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1824 98840 1595
+# 
+name: Comma
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1515 98907 1825
+# 
+name: Period
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1370 99056 1679
+# 
+name: Fwd_slash
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1661 98766 1969
+# 
+name: Dash
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1582 98842 1893 98578 1892
+# 
+name: Left_ang_bracket
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1668 98948 1418 99100 1407
+# 
+name: Right_ang_bracket
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1392 98908 1527 98953 1525
+# 
+name: Question
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1471 98829 1605
+# 
+name: At
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1521 98909 1527 99080 1399
+# 
+name: Exclamation
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1593 98804 1594
+# 
+name: Double_quote
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1421 98980 1423 98848 1603
+# 
+name: Octothorpe
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1834 98750 1649 98610 1838
+# 
+name: Dollar
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1969 98430 1972
+# 
+name: Percent
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1602 98996 1404
+# 
+name: Ampersand
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1682 98509 1894
+# 
+name: Fwd_tick
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1391 98876 1527
+# 
+name: Asterisk
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1601 98801 1603
+# 
+name: Open_paren
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1403 98998 1405
+# 
+name: Closed_paren
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1748 98657 1738 98712 1739
+# 
+name: Underscore
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1892 98725 1677
+# 
+name: Backslash
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1730 98676 1749 98786 1648
+# 
+name: Left_curly_brace
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 2132 98270 2134
+# 
+name: Right_curly_brace
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 2054 98348 2055
+# 
+name: Pipe
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1902 98501 1901
+# 
+name: Caret
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1760 98433 1971
+# 
+name: Backtick
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1562 98864 1541
+# 
+name: Tilde
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1681 98742 1665
+# 
+name: Left_square_brace
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1901 98506 1892
+# 
+name: Right_square_brace
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1598 98803 1604 98854 1598
+# 
+name: Left
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1900 98505 1901 98550 1902
+# 
+name: Right
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1978 98429 1980
+# 
+name: Down
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1758 98653 1756 98482 1972
+# 
+name: Up
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1731 98669 1741 98692 1763
+# 
+name: Insert
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 2043 98364 2046 98407 2047
+# 
+name: Delete
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1901 98738 1611 98843 1672
+# 
+name: New_line
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1969 98438 1971 98484 1980
+# 
+name: Delete_line
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1893 98515 1896 98775 1679
+# 
+name: Send
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1378 98892 1817 98630 1815
+# 
+name: Bksp
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1506 98894 1824 98624 1825
+# 
+name: Return
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1438 98963 1747
+# 
+name: Secure
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1432 98958 1453
+# 
+name: Space
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1292 98899 1824
