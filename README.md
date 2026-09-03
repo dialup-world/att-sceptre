@@ -11,4 +11,4 @@ The Sceptre manual (with Aviotex service addendum) is available in the [manual](
 
 ## Photos
 
-Photos are available in the [photos](photos) subdirectory.
+Photos are available in the [photos](photos) subdirectory. Thanks to *snuci* for contributing photos of their Sceptre with the integrated PSU.
